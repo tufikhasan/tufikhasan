@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... freelancing
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/ami.toufiq)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
