@@ -39,13 +39,15 @@ I focus on writing clean, maintainable code and building scalable, user-focused 
 
 
 ## 🧩 Featured Work
-*(Add these later when public repos are ready)*
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | **POS & KDS System** | A real-time kitchen display and order management system. | Laravel, Livewire, Tailwind |
-| **E-commerce Platform** | Full-featured store with cart, checkout, and payment gateway. | Laravel, Vue.js, MySQL |
-| **PTC Earning Website** | Ad-viewing & affiliate earning system with wallet & payouts. | Laravel, React.js |
+| **E-commerce Platform** | Full-featured store with cart, checkout, and payment gateway. | Laravel, MySQL |
+| [**Frisk – Multipurpose Laravel CMS**](https://codecanyon.net/item/frisk-multipurpose-laravel-cms-for-business-portfolio-creative-agencies/57319760?s_rank=2) | Multipurpose CMS for businesses, portfolios, and creative agencies. | Laravel, Bootstrap, MySQL |
+| [**SkillGro – LMS Platform**](https://codecanyon.net/item/skillgro-course-learning-management-system-laravel-script-lms/53608520?s_rank=8) | Course learning management system with instructor & student dashboards. | Laravel,  Bootstrap, MySQL |
+| [**Degmark – Digital Marketplace**](https://codecanyon.net/item/degmark-digital-products-buy-sell-market-place-laravel-script/46985567?s_rank=10) | Digital marketplace for buying and selling digital products. | Laravel,  Bootstrap, MySQL |
+| [**DocMent – Doctor Appointment System (SaaS)**](https://codecanyon.net/item/docment-saas-based-multi-doctor-appointment-system/33132125?s_rank=29) | Multi-doctor appointment booking SaaS platform with admin and clinic dashboards. | Laravel,  Bootstrap, MySQL|
 
 
 ## 🚀 Current Focus
@@ -76,13 +78,10 @@ I focus on writing clean, maintainable code and building scalable, user-focused 
 - **LinkedIn:** [linkedin.com/in/tufikhasan](linkedin.com/in/tufikhasan)  
 - **Portfolio:** [tufikhasan.com]([tufikhasan.com)  
 - **GitHub:** [github.com/tufikhasan](https://github.com/towfikhasan)
-- **Twitter/X:** []
 - **Twitter/X:** [https://x.com/tufik_hasan](https://x.com/tufik_hasan)  
 
 ---
 > *"Good code is its own best documentation."*  
 ---
-
-⭐️ From [Towfik Hasan](https://github.com/tufikhasan)
 
 
