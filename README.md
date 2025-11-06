@@ -64,12 +64,14 @@ I focus on writing clean, maintainable code and building scalable, user-focused 
 - System Design & Microservices  
 - Cloud Deployment (AWS, Docker, CI/CD)
 
+## 📈 Leedcode Problem Solving
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tufikhasan?theme=nord&font=milonga)](https://leetcode.com/tufikhasan)
+
 
 ## 📈 GitHub Overview
-
+![Towfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tufikhasan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tufikhasan&layout=compact&theme=radical)
 
-![Towfik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tufikhasan&show_icons=true&theme=radical)
 
 
 ## 📫 Contact
